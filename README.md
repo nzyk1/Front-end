@@ -1,2 +1,2 @@
-# C-language-BLANK
-I am a computer student,At the same time, I am also a beginner in computer. I want to share and record my learning experience through this platform and constantly learn to use the resources of this platform. I am very happy to communicate with you.In this warehouse, I will share my C language learning process.
+前端趣味分享
+这里是我在前端学习过程中学到的一些知识的记录，还有一些我觉得值得分享的知识。
